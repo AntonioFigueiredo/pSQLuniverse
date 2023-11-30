@@ -2,4 +2,4 @@
 Celestial Bodies Database
 
 pSQL database created in the freeCodeCamp course 'Relational Database'
-Data in table entries was generated with the help of ChatGPT.
+The mock data for the tables was generated with the assistance of ChatGPT.
